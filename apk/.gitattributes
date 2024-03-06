@@ -1,3 +1,4 @@
 red_8.8.0_8080520.apk filter=lfs diff=lfs merge=lfs -text
 F:/pgy_red_fuzhu/pgy_red_fuzhu/apk/小红书_8.13.0_8130538.apk filter=lfs diff=lfs merge=lfs -text
 小红书_8.13.0_8130538.apk filter=lfs diff=lfs merge=lfs -text
+com.xingin.xhs_8.24.5.apk filter=lfs diff=lfs merge=lfs -text
